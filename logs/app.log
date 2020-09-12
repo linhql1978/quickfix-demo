@@ -1,0 +1,4 @@
+2020-09-12 13:52:41,935 [main] INFO  (Demo.java:25) - Start
+2020-09-12 13:52:44,146 [main] INFO  (Demo.java:64) - Number of Message: 44255
+2020-09-12 13:52:44,162 [main] INFO  (Demo.java:73) - Time finished process file: 2207
+2020-09-12 13:52:44,163 [main] INFO  (Demo.java:74) - Finished
